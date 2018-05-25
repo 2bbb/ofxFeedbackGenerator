@@ -1,8 +1,7 @@
 //
 //  ofxFeedbackGenerator.cpp
-//  ofxFeedbackGeneratorExample
 //
-//  Created by 石井通人 on 2018/05/25.
+//  Created by ISHII 2bit on 2018/05/25.
 //
 
 #import <UIKit/UIKit.h>
