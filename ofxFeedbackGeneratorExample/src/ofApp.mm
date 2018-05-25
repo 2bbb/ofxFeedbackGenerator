@@ -17,7 +17,7 @@ public:
         }
     }
     void draw() {
-        ofDrawBitmapString("notification error vibration per 120frame", 20, 40);
+        ofDrawBitmapString("notification error vibration per 120frame", 20, 20);
         ofDrawBitmapString("tap to impact heavy vibration", 20, 40);
     }
     void exit() {}
